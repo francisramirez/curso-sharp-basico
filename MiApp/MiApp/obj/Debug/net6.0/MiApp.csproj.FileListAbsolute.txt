@@ -1,0 +1,15 @@
+D:\prjs\mi-app\curso-sharp-basico\MiApp\MiApp\bin\Debug\net6.0\MiApp.exe
+D:\prjs\mi-app\curso-sharp-basico\MiApp\MiApp\bin\Debug\net6.0\MiApp.deps.json
+D:\prjs\mi-app\curso-sharp-basico\MiApp\MiApp\bin\Debug\net6.0\MiApp.runtimeconfig.json
+D:\prjs\mi-app\curso-sharp-basico\MiApp\MiApp\bin\Debug\net6.0\MiApp.dll
+D:\prjs\mi-app\curso-sharp-basico\MiApp\MiApp\bin\Debug\net6.0\MiApp.pdb
+D:\prjs\mi-app\curso-sharp-basico\MiApp\MiApp\obj\Debug\net6.0\MiApp.csproj.AssemblyReference.cache
+D:\prjs\mi-app\curso-sharp-basico\MiApp\MiApp\obj\Debug\net6.0\MiApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\prjs\mi-app\curso-sharp-basico\MiApp\MiApp\obj\Debug\net6.0\MiApp.AssemblyInfoInputs.cache
+D:\prjs\mi-app\curso-sharp-basico\MiApp\MiApp\obj\Debug\net6.0\MiApp.AssemblyInfo.cs
+D:\prjs\mi-app\curso-sharp-basico\MiApp\MiApp\obj\Debug\net6.0\MiApp.csproj.CoreCompileInputs.cache
+D:\prjs\mi-app\curso-sharp-basico\MiApp\MiApp\obj\Debug\net6.0\MiApp.dll
+D:\prjs\mi-app\curso-sharp-basico\MiApp\MiApp\obj\Debug\net6.0\refint\MiApp.dll
+D:\prjs\mi-app\curso-sharp-basico\MiApp\MiApp\obj\Debug\net6.0\MiApp.pdb
+D:\prjs\mi-app\curso-sharp-basico\MiApp\MiApp\obj\Debug\net6.0\MiApp.genruntimeconfig.cache
+D:\prjs\mi-app\curso-sharp-basico\MiApp\MiApp\obj\Debug\net6.0\ref\MiApp.dll

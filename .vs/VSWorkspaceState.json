@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\MiApp",
+    "\\MiApp\\MiApp",
+    "\\MiApp\\MiApp\\bin",
+    "\\MiApp\\MiApp\\bin\\Debug"
   ],
-  "SelectedNode": "\\D:\\prjs\\mi-app\\curso-sharp-basico",
   "PreviewInSolutionExplorer": false
 }
